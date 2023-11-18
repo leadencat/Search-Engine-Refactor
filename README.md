@@ -40,4 +40,4 @@ SOFTWARE.
 ## Links
 
 GitHub Repo: https://github.com/leadencat/Search-Engine-Refactor
-Live Link: 
+Live Link: https://leadencat.github.io/Search-Engine-Refactor/
