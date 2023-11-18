@@ -7,9 +7,9 @@ Refactored code for Horisean webpage for social media marketing and management.
 Has functioning links, a displayed webpage title, and shorter more organized CSS code.
 Screenshot:
 
-    ```md
-    ![horsion website](screenshot/Horiseon.png)
-    ```
+```md
+![horiseon website](screenshot/Horiseon.png)
+```
 
 ## Credits
 
